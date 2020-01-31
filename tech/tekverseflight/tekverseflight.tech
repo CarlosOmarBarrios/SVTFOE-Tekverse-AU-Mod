@@ -1,0 +1,15 @@
+{
+	"name" : "tekverseflight",
+	"type" : "body",
+
+	"scripts" : ["tekverseflight.lua"],
+	"animator" : "tekverseflight.animation",
+
+	"description" : "^#B3E3E5;The skies belong to you, ^white;but for a price. ^orange;Flight^white; is free, but a ^green;dash^white; consumes energy. UP + SPACEBAR to dash, SPACEBAR in mid air to fly, and SHIFT to stop.",
+	"shortDescription" : "The Wings of The Butterflies",
+	"rarity" : "Legendary",
+	"icon" : "/tech/tekverseflight/tekverseflight.png",
+
+	"chipCost" : 40,
+	"energyCostPerSecond" : 40
+}

@@ -1,0 +1,28 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "glowing" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+		  "low" : {
+			"properties" : {
+              "persistentSound" : "/sfx/magicaura.ogg"
+			}
+		  },
+		  "crouch" : {
+			"properties" : {
+              "persistentSound" : "/sfx/magicaura.ogg"
+            }
+          },
+          "high" : {
+            "properties" : {
+              "persistentSound" : "/sfx/magicaura.ogg"
+            }
+          }
+        }
+      }
+    }
+  }
+}

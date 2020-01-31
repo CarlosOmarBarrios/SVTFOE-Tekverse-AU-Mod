@@ -1,0 +1,21 @@
+{
+  "name" : "biomemagic",
+  "blockingStat" : "biomemagicImmunity",
+
+  "effectConfig" : {
+    "directives" : "fade=F736C0=0.3",
+    "tickRate" : 0.5,
+    "energyCost" : 5.0,
+    "tickDamage" : 5
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "biomemagic.lua"
+  ],
+
+  "animationConfig" : "biomemagic.animation",
+
+  "label" : "Memory Loss",
+  "icon" : "/interface/statuses/biomemagic.png"
+}

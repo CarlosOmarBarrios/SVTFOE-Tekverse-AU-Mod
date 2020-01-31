@@ -1,0 +1,19 @@
+{
+	"name" : "tekversebright",
+	"type" : "head",
+
+	"scripts" : ["tekversebright.lua"],
+	"animator" : "tekversebright.animation",
+
+	"description" : "You have the blessing of the goddess Celestia; You have their magic. Press ^green;F ^white;to ^red;toggle Glowiness.",
+	"shortDescription" : "Butterfly Glowness",
+	"rarity" : "Legendary",
+	"icon" : "/tech/tekversebright/tekversebright.png",
+
+	"chipCost" : 16,
+  "techProjectileConfig": {
+    "power": 0.5,
+    "speed": 75 
+  },
+	"energyCostPerSecond" : 20
+}

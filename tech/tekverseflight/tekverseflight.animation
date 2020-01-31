@@ -1,0 +1,50 @@
+{
+ "globalTagDefaults" : {
+		"facingDirection" : "left"
+	},
+  "particleEmitters": {
+    "feathers": {
+      "enabled": true,
+      "emissionRate": 7.0,
+      "particles": [
+        {
+          "particle": "sparkle1"
+        },
+        {
+          "particle": "sparkle2"
+        },
+        {
+          "particle": "sparkle3"
+        },
+        {
+          "particle": "sparkle4"
+        },
+        {
+          "particle": "sparkle5"
+        },
+        {
+          "particle": "sparkle6"
+        },
+        {
+          "particle": "sparkle1"
+        },
+        {
+          "particle": "sparkle2"
+        },
+        {
+          "particle": "sparkle3"
+        }
+        //TODO: Make this not stupid by allowing an amount to burstParticleEmitter
+      ]
+    },
+    "hover": {
+      "enabled": true,
+      "emissionRate": 30.0,
+      "particles": [
+        {
+          "particle": "levitationair"
+        }
+      ]
+    }
+  }
+}
