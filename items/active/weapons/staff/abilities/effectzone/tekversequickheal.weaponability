@@ -1,0 +1,15 @@
+{
+  "ability" : {
+    "type" : "tekversequickheal",
+    "name" : "Healing Escalation",
+    "scripts" : ["/items/active/weapons/staff/abilities/effectzone/effectzone.lua"],
+    "class" : "EffectZone",
+
+    "energyCost" : 90,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "fasthealingstatusprojectile",
+    "projectileParameters" : {}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "magilitiumore",
+  "price" : 120,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "magilitiumore.png",
+  "description" : "Magilitium ore. Can be used for smelting.",
+  "shortdescription" : "Magilitium Ore",
+  "itemTags" : [ "reagent" ]
+}

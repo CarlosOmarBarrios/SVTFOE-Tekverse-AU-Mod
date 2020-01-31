@@ -1,0 +1,15 @@
+{
+  "itemName" : "mewnianshipdetails",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "mewnianshipdetails.png",
+  "description" : "A magically riveted metal wall.",
+  "shortdescription" : "Mewnian Railing",
+  "glitchdescription" : "Secure. This metal wall has been reinforced with strong bolts.",
+  "florandescription" : "Ssstrong bolted metal.",
+  "novakiddescription" : "Strong lookin' wall made from metal.",
+
+  "materialId" : 167,
+  "learnBlueprintsOnPickup" : [ "mewnianshipdetails" ]
+}

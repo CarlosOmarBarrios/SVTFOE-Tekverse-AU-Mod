@@ -1,0 +1,15 @@
+{
+  "itemName" : "mewnianshipsupport",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "mewnianshipsupport.png",
+  "description" : "A wall support used in ship construction.",
+  "shortdescription" : "Mewnian Support",
+  "glitchdescription" : "Informed. Supports like this are often used in ship construction.",
+  "florandescription" : "Ssship sstructural ssupport.",
+  "novakiddescription" : "Made for holdin' spaceships together.",
+
+  "materialId" : 168,
+  "learnBlueprintsOnPickup" : [ "mewnianshipsupport" ]
+}

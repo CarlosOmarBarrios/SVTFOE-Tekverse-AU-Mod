@@ -1,0 +1,14 @@
+{
+	"itemName" : "mechbodymewnianproto",
+	"price" : 6400,
+	"maxStack" : 1,
+	"rarity" : "Rare",
+	"category" : "mechPart",
+	"tooltipKind" : "mechbody",
+	"builder" : "/items/buildscripts/buildmechpart.lua",
+	"inventoryIcon" : "mechbodymewnianproto.png",
+	"description" : "A prototype mech body from the Mewnian Mechanics Guild.",
+	"shortdescription" : "Celestium 0 Mech Body",
+	"itemTags" : [],
+	"mechPart" : ["body", "mewnianproto"]
+}

@@ -1,0 +1,10 @@
+{
+  "itemName" : "trishandriteore",
+  "price" : 120,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "trishandriteore.png",
+  "description" : "It's trishandrite. It can be used for smelting.",
+  "shortdescription" : "Trishandrite Ore",
+  "itemTags" : [ "reagent" ]
+}

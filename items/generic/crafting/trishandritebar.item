@@ -1,0 +1,10 @@
+{
+  "itemName" : "trishandritebar",
+  "price" : 200,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "trishandritebar.png",
+  "description" : "Ore for trishandrite bars is primarily found on planets orbiting most stars.",
+  "shortdescription" : "Magilitium Bar",
+  "itemTags" : [ "reagent" ]
+}

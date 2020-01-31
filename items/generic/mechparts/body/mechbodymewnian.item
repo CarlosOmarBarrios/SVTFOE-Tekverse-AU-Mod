@@ -1,0 +1,14 @@
+{
+	"itemName" : "mechbodymewnian",
+	"price" : 9600,
+	"maxStack" : 1,
+	"rarity" : "Rare",
+	"category" : "mechPart",
+	"tooltipKind" : "mechbody",
+	"builder" : "/items/buildscripts/buildmechpart.lua",
+	"inventoryIcon" : "mechbodymewnian.png",
+	"description" : "Like mewnian armor, this looks ineffective. Looks.",
+	"shortdescription" : "Celestium X Mech Body",
+	"itemTags" : [],
+	"mechPart" : ["body", "mewnian"]
+}

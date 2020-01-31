@@ -1,0 +1,23 @@
+{
+  "ability" : {
+    "type" : "tekversesparklebarrage",
+    "name" : "Starlight Barrage",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/plasmabarrage.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 80,
+
+    "maxCastRange" : 25,
+
+    "projectileCount" : 1,
+    "projectileDistance" : 1,
+    "projectileType" : "TekverseSparkleStar",
+    "projectileParameters" : {
+      "baseDamage" : 12
+    },
+    "triggerSound" : ["/sfx/gun/gnomebeam_hit_ground.ogg"],
+
+    "projectileDelayFirst" : 1.0,
+    "projectileDelayEach" : 0.15
+  }
+}

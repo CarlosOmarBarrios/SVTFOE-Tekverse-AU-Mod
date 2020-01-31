@@ -1,0 +1,13 @@
+{
+  "itemName" : "liquidmagifuel",
+  "rarity" : "Common",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidmagifuelicon.png",
+  "shortdescription" : "Liquid Magic Fuel",
+  "description" : "A magical substance, syphoned from magic realms and used as FTL fuel.",
+
+  "liquid" : "magifuel",
+  
+  "fuelAmount" : 100,
+  "price" : 1
+}

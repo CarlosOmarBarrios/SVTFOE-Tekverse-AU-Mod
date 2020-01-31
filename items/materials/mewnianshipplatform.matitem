@@ -1,0 +1,15 @@
+{
+  "itemName" : "mewnianshipplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "mewnianshipplatformicon.png",
+  "description" : "Durable enough to withstand magically the demands of space travel.",
+  "shortdescription" : "Mewnian Ship Platform",
+  "glitchdescription" : "Informed. Platforms like this are used in space ship construction.",
+  "florandescription" : "Sstrong sship platform.",
+  "novakiddescription" : "This platform's strong enough t'keep from gettin' boot scuffed.",
+
+  "materialId" : 176,
+  "learnBlueprintsOnPickup" : [ "mewnianshipplatform" ]
+}

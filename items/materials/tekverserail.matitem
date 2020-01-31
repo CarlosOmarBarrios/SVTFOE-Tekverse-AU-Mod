@@ -1,0 +1,15 @@
+{
+  "itemName" : "tekverserail",
+  "price" : 0,
+  "category" : "rail",
+  "rarity" : "Common",
+  "inventoryIcon" : "tekverserail.png",
+  "description" : "A magically strong reinforced rail.",
+  "shortdescription" : "Magical Rail",
+  "glitchdescription" : "Pleased. The material this rail is made from makes it very strong.",
+  "florandescription" : "Shiny metal rails.",
+  "novakiddescription" : "Some sturdy lookin' rails, gettin' the itch to ride 'em.",
+
+
+  "materialId" : 9000
+}

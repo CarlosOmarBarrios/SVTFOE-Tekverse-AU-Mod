@@ -1,0 +1,10 @@
+{
+  "itemName" : "magilitiumbar",
+  "price" : 300,
+  "rarity" : "Uncommon",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "magilitiumbar.png",
+  "description" : "Ore for magilitium bars is primarily found on planets orbiting most stars.",
+  "shortdescription" : "Magilitium Bar",
+  "itemTags" : [ "reagent" ]
+}

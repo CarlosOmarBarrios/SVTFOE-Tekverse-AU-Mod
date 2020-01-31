@@ -1,0 +1,15 @@
+{
+  "itemName" : "mewnianshipwall",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "mewnianshipwall.png",
+  "description" : "A sleek magical metal wall panel.",
+  "shortdescription" : "Mewnian Wall Panel",
+  "glitchdescription" : "Impressed. These removable panels are smooth and strong.",
+  "florandescription" : "Metal panel makess ssmooth wall.",
+  "novakiddescription" : "A panel made outta metal.",
+
+  "materialId" : 169,
+  "learnBlueprintsOnPickup" : [ "mewnianshipwall" ]
+}

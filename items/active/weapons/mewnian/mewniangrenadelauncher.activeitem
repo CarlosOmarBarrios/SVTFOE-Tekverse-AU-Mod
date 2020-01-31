@@ -1,0 +1,32 @@
+{
+  "itemName" : "mewniangrenadelauncher",
+  "price": 1500,
+  "level" : 6,
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Fires magical grenades that can be manually triggered to explode.",
+  "shortdescription" : "Mewnian Remote Grenade Launcher",
+  "tooltipKind" : "base",
+  "category" : "grenadeLauncher",
+  "twoHanded" : false,
+  "itemTags" : ["weapon"],
+
+  "inventoryIcon" : "mewniangrenadelauncher.png",
+  "animation" : "mewniangrenadelauncher.animation",
+  "animationParts" : {
+    "gun" : "mewniangrenadelauncher.png"
+  },
+  "elementalType" : "physical",
+  "animationCustom" : { },
+  "scripts" : ["mewniangrenadelauncher.lua"],
+  "fireOffset" : [3.25, 0.625],
+  "fireTime" : 1.25,
+  "inaccuracy" : 0.02,
+
+  "projectileType" : "mewnianremotestickygrenade",
+  "projectileParameters" : {
+    "power" : 8,
+    "timeToLive" : 8
+  },
+  "energyUsage" : 32
+}
