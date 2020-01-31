@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/mewnian",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/mewnian",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
