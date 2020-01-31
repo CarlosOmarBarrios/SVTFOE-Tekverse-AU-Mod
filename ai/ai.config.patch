@@ -1,0 +1,10 @@
+[
+{ "op" : "add",
+	"path" : "/species/mewnian",
+	"value" : {
+		"aiFrames" : "mewnianAI.png",
+		"portraitFrames" : "portraits/mewnianportrait.png",
+		"staticFrames" : "staticMewnian.png"
+	}
+}
+]
