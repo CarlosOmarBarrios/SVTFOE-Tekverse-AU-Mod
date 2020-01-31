@@ -1,0 +1,105 @@
+[
+  {
+    "op": "add",
+    "path": "/visitableTypeDescription/magicsource",
+    "value": [
+      "^#ffe14c;The Realm of Magic ^white;is an outside dimension where magic originates in a gold-colored ocean. This Planet is ^red;Deadly Magical ^white;and you'll ^red;lose ^white;your memories!",
+      "^#ffe14c;The Realm of Magic ^white;is an outside dimension where magic originates in a gold-colored ocean. This Planet is ^red;Deadly Magical ^white;and you'll ^red;lose ^white;your memories!",
+      "^#ffe14c;The Realm of Magic ^white;is an outside dimension where magic originates in a gold-colored ocean. This Planet is ^red;Deadly Magical ^white;and you'll ^red;lose ^white;your memories!"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/durasteel",
+    "value": {
+      "displayName": "Durasteel",
+      "icon": "/items/generic/crafting/durasteelore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/aegisalt",
+    "value": {
+      "displayName": "Aegisalt",
+      "icon": "/items/generic/crafting/aegisaltore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/ferozium",
+    "value": {
+      "displayName": "Ferozium",
+      "icon": "/items/generic/crafting/feroziumore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/violium",
+    "value": {
+      "displayName" : "Violium",
+      "icon" : "/items/generic/crafting/Violiumore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/solarium",
+    "value": {
+      "displayName" : "Solarium",
+      "icon" : "/items/generic/crafting/solariumore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/magilitium",
+    "value": {
+      "displayName" : "Magilitium",
+      "icon" : "/items/generic/crafting/magilitiumore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayOres/trishandrite",
+    "value": {
+      "displayName" : "Trishandrite",
+      "icon" : "/items/generic/crafting/trishandriteore.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayWeathers/drizzle",
+    "value": {
+      "displayName": "Light Rain",
+      "icon": "/interface/cockpit/weather/drizzle.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayWeathers/rain",
+    "value": {
+      "displayName": "Rain",
+      "icon": "/interface/cockpit/weather/rain.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/displayWeathers/heavyrain",
+    "value": {
+      "displayName": "Heavy Rain",
+      "icon": "/interface/cockpit/weather/heavyrain.png"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/planetTypeNames/magicsource",
+    "value": "Realm of Magic"
+  },
+  {
+    "op": "add",
+    "path": "/planetTypeColors/magicsource",
+    "value": [
+      225,
+      225,
+      76
+    ]
+  }
+]
