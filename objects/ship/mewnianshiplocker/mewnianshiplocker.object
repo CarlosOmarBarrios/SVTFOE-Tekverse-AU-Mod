@@ -1,0 +1,42 @@
+{
+  "objectName" : "mewnianshiplocker",
+  "colonyTags" : ["mewnian","storage"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+
+  "category" : "storage",
+  "description" : "A locker. Store some stuff, why don't you?",
+  "shortdescription" : "Shiplocker",
+  "race" : "mewnian",
+  "lightColor" : [247, 54, 192],
+
+  "apexDescription" : "A Mewnian storage unit.",
+  "avianDescription" : "The ship's storage locker.",
+  "floranDescription" : "Mewnian sstore goodiess in here.",
+  "glitchDescription" : "Pleased. A good Mewnian storage locker.",
+  "humanDescription" : "A good spot to store valuables.",
+  "hylotlDescription" : "An old Hylotl saying comes to mind \"Never forget where you stored your valuables.\"",
+  "novakidDescription" : "A locker, for puttin' things in.",
+  "mewnianDescription" : "A ship's magical storage locker to store valuables.",
+
+  "inventoryIcon" : "shiplockericon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "mewnianshiplocker.png:<color>.<frame>", "fullbright" : true }, { "image" : "mewnianshiplockerlit.png:<color>.<frame>" } ],
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/gunchest_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/gunchest_close.ogg" ],
+  "slotCount" : 64,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 11,
+  "autoCloseCooldown" : 3600
+}

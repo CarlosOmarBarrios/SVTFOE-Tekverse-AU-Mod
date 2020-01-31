@@ -1,0 +1,42 @@
+{
+  "objectName" : "mewnianshiplockerTier0",
+  "colonyTags" : ["mewnian","storage"],
+  "printable" : false,
+  "rarity" : "Common",
+  
+  "category" : "decorative",
+  "description" : "Store some stuff, why don't you?",
+  "shortdescription" : "Shiplocker",
+  "race" : "mewnian",
+  "lightColor" : [247, 54, 192],
+
+  "apexDescription" : "A Mewnian storage unit. It appears to be malfunctioning.",
+  "avianDescription" : "The ship's storage locker. Sadly it seems broken.",
+  "floranDescription" : "Mewnian sstore goodiess in here. When itsss working.",
+  "glitchDescription" : "Distressed. This locker seems to be broken.",
+  "humanDescription" : "A good spot to store valuables, when its actually working.",
+  "hylotlDescription" : "An old Hylotl saying comes to mind, it means nothing when the locker is broken however.",
+  "novakidDescription" : "A locker, for puttin' things in. Shame this one is wrecked.",
+  "mewnianDescription" : "Ship's magical storage locker sealed with SAIL's seal, I must break that seal first.",
+
+  "inventoryIcon" : "mewnianlockericonTier0.png",
+  "orientations" : [
+    {
+      "image" : "mewnianshiplockerTier0.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/noisy/noisy.animation",
+
+  "scripts" : [
+    "/objects/noisy/noisy.lua"
+  ],
+  
+  "sounds" : [ "/sfx/interface/clickon_error.ogg" ]
+  
+}
