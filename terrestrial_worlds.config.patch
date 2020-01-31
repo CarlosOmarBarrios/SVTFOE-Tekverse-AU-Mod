@@ -1,0 +1,57 @@
+[
+  {
+    "op": "add",
+    "path": "/planetTypes/magicsource",
+    "value": {
+      "blendSize" : 30,
+      "threatRange": [
+        1,
+        2
+      ],
+      "layers": {
+        "surface" : {
+          "primaryRegion" : [
+            "magicsource"
+          ],
+          "baseHeight" : 1150,
+          "layerLevel" : 1050
+        },
+        "subsurface" : {
+          "primaryRegion" : [
+            "magicsourcefloor"
+          ],
+          "dungeons" : [
+            [1.0, "hylotloceancity"], [1.0, "hylotlruinedcity"]
+          ]
+        }
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/magicsource",
+    "value": {
+      "oceanLiquid" : [ "water" ],
+      "blockSelector" : [ "remixedIslandsSurface" ],
+      "fgCaveSelector" : [ "empty" ],
+      "bgCaveSelector" : [ "empty" ],
+      "biome" : [
+        [0, [ "magicsource" ]]
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/regionTypes/magicsourcefloor",
+    "value": {
+      "oceanLiquid" : [ "magifuel" ],
+      "oceanLevelOffset" : 1000,
+      "blockSelector" : [ "ledgesSurface" ],
+      "fgCaveSelector" : [ "emptier" ],
+      "bgCaveSelector" : [ "emptiest" ],
+      "biome" : [
+        [0, [ "magicsourcefloor" ]]
+      ]
+    }
+  }
+]

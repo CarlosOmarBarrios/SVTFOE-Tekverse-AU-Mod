@@ -1,0 +1,9 @@
+[
+	{ "op" : "add",
+	"path" : "/tekverserail",
+	"value" : {
+		"friction" : 1.0,
+		"speedLimit" : 60
+		}
+	}
+]

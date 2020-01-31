@@ -1,0 +1,21 @@
+[
+	{ "op": "add", "path": "/species/-", "value" : "mewnian" },
+	{ "op": "add", "path": "/defaultCodexes/mewnian", "value": [ "protectorate1", "protectorate2" ]},
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "starswand" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianassaultrifle" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianpistol" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianshotgun" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewniansniperrifle" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewniangrenadelauncher" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianrocketlauncher" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "magilitiumbar" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "trishandritebar" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianshipwall" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianshipdetails" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianshipsupport" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianshipplatform" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "tekverserail" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "magicprotectionback" } },
+	{ "op": "add", "path": "/defaultBlueprints/tier1", "value": { "item" : "mewnianstationtram" } },
+	{ "op": "add", "path": "/deploymentConfig/speciesStarterMechBody/mewnian", "value" : "mechbodymewnianproto" }
+]

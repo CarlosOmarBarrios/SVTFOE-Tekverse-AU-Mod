@@ -1,0 +1,18 @@
+[
+	[
+        { "op" : "add",
+			"path" : "/speciesShips/mewnian",
+			"value" : [
+				"/ships/mewnian/mewnianT0.structure",  
+				"/ships/mewnian/mewnianT1.structure",
+				"/ships/mewnian/mewnianT2.structure",
+				"/ships/mewnian/mewnianT3.structure",
+				"/ships/mewnian/mewnianT4.structure",
+				"/ships/mewnian/mewnianT5.structure",
+				"/ships/mewnian/mewnianT6.structure",
+				"/ships/mewnian/mewnianT7.structure",
+				"/ships/mewnian/mewnianT8.structure"
+			]
+		}
+    ]
+]
