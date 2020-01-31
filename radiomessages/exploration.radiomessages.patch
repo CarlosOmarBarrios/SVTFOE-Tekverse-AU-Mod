@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/biomemagic",
+    "value": {
+      "unique": true,
+      "text": "WARNING! MAGICAL RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without proper protective equipment!",
+      "portraitImage": "yell.<frame>",
+      "textSpeed": 70,
+      "persistTime" : 20.0
+    }
+  }
+]

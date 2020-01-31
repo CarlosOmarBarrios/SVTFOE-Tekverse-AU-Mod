@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "magilitiumbar", "count" : 1 },
+    { "item" : "trishandritebar", "count" : 1 },
+    { "item" : "wire", "count" : 5 }
+  ],
+  "output" : { "item" : "mewnianshipdoor", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "doors", "all" ]
+}

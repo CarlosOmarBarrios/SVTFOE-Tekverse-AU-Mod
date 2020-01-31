@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/biomemagic_mech",
+    "value": {
+      "unique": false,
+      "text": "WARNING: Your vehicle is not certified for this environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+      "portraitImage": "yell.<frame>",
+      "textSpeed": 70
+    }
+  },
+  {
+    "op": "add",
+    "path": "/magifuel_mech",
+    "value": {
+      "unique": false,
+      "text": "WARNING: Your vehicle is not certified for this liquid!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+      "portraitImage": "yell.<frame>",
+      "textSpeed": 70
+    }
+  }
+]

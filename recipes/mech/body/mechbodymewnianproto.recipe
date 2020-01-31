@@ -1,0 +1,10 @@
+{
+	"input" : [
+		{ "item" : "titaniumbar", "count" : 40 },
+		{ "item" : "magilitiumbar", "count" : 50 },
+		{ "item" : "trishandritebar", "count" : 25}
+	],
+	"duration" : 3,
+	"output" : { "item" : "mechbodymewnianproto", "count" : 1 },
+	"groups" : [ "craftingmech", "mechbody" ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "magilitiumbar", "count" : 1 },
+    { "item" : "trishandritebar", "count" : 1 }
+  ],
+  "output" : { "item" : "tekverserail", "count" : 20 },
+  "duration" : 1.0,
+  "groups" : [ "rail" ]
+}

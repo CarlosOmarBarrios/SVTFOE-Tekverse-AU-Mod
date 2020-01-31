@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "heatprotectionback", "count" : 20 },
+    { "item" : "solariumstar", "count" : 40 },
+    { "item" : "prisilitestar", "count" : 5 },
+    { "item" : "magilitiumbar", "count" : 20 },
+    { "item" : "trishandritebar", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "magicprotectionback",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil3", "backitems", "all" ]
+}

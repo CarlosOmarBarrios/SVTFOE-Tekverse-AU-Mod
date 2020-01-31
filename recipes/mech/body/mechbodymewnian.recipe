@@ -1,0 +1,12 @@
+{
+	"input" : [
+		{ "item" : "refinedviolium", "count" : 30 },
+		{ "item" : "magilitiumbar", "count" : 80},
+		{ "item" : "trishandritebar", "count" : 40},
+		{ "item" : "salvagebody", "count" : 25 },
+		{ "item" : "salvagetier5", "count" : 10 }
+	],
+	"duration" : 5,
+	"output" : { "item" : "mechbodymewnian", "count" : 1 },
+	"groups" : [ "craftingmech", "mechbody" ]
+}

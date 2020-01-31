@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "prisilitestar", "count" : 2 },
+    { "item" : "magilitiumbar", "count" : 5 },
+    { "item" : "trishandritebar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "starswand",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

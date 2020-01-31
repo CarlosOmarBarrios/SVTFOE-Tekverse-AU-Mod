@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "prisilitestar", "count" : 3 },
+    { "item" : "magilitiumbar", "count" : 10 },
+    { "item" : "trishandritebar", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "mewnianshotgun",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}
