@@ -1,0 +1,22 @@
+{
+  "itemName" : "magicalaugment",
+  "price" : 10000,
+  "rarity" : "Rare",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "magicalaugment.png",
+  "description" : "An EPP module that does magic, brings total protection without grit.",
+  "shortdescription" : "Magical Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lowgrav",
+    "displayName" : "Magical",
+    "displayIcon" : "/items/augments/back/magicalaugment.png",
+    "effects" : [ "energyregen", "maxprotectionnogrit", regeneration4 ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}
