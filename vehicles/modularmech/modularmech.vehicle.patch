@@ -1,0 +1,18 @@
+[
+{
+  "op": "add",
+  "path": "/liquidVulnerabilities/magifuel",
+  "value": {
+    "energyDrain": 30.0,
+    "message": "magifuel_mech"
+  }
+},
+{
+  "op": "add",
+  "path": "/hazardVulnerabilities/biomemagic",
+  "value": {
+    "energyDrain": 15.0,
+    "message": "biomemagic_mech"
+  }
+}
+]

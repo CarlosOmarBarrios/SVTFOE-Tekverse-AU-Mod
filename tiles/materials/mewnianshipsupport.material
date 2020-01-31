@@ -1,0 +1,27 @@
+
+{
+  "materialId" : 9001,
+  "materialName" : "mewnianshipsupport",
+  "frames" : "mewnianshipsupport.png",
+  "particleColor" : [110, 110, 110, 255],
+  "variants" : 1,
+  "itemDrop" : "mewnianshipsupport",
+  "description" : "A magical wall support used in ship construction.",
+  "shortdescription" : "Magical Ship Support",
+  "glitchDescription" : "Informed. Supports like this are often used in ship construction.",
+  "floranDescription" : "Ssship sstructural ssupport.",
+  "novakidDescription" : "Made for holdin' spaceships together.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/girdertemplate.config",
+  "renderParameters" : {
+    "texture" : "mewnianshipsupport.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 3340
+  }
+}

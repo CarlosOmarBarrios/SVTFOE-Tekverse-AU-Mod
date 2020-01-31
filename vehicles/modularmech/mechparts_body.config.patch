@@ -1,0 +1,34 @@
+[
+	{
+		"op": "add",
+		"path": "/mewnianproto",
+		"value": {
+			"stats": { "energy": 4, "protection": 4 },
+			"partParameters": {},
+			"partImages": {
+				"bodyBack": "body/mewnianproto_back.png",
+				"bodyFront": "body/mewnianproto_front.png",
+				"bodyFullbright" : "body/mewnianproto_fullbright.png"
+			},
+			"defaultPrimaryColors": [ "ff9ee3", "f736c0", "cc1698", "9b0c73" ],
+			"defaultSecondaryColors": [ "e19eff", "c036f7", "9816cc", "730c9b" ],
+			"animationCustom": {}
+		}
+	},
+	{
+		"op": "add",
+		"path": "/mewnian",
+		"value": {
+			"stats": { "energy": 7, "protection": 7 },
+			"partParameters": { "hazardImmunities" : ["biomeradiation", "biomecold", "biomemagic"] },
+			"partImages": {
+				"bodyBack": "body/mewnian_back.png",
+				"bodyFront": "body/mewnian_front.png",
+				"bodyFullbright" : "body/mewnian_fullbright.png"
+			},
+			"defaultPrimaryColors": [ "ff9ee3", "f736c0", "cc1698", "9b0c73" ],
+			"defaultSecondaryColors": [ "e19eff", "c036f7", "9816cc", "730c9b" ],
+			"animationCustom": {}
+		}
+	}
+]

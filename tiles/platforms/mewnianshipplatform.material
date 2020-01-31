@@ -1,0 +1,23 @@
+{
+  "materialId" : 9003,
+  "materialName" : "mewnianshipplatform",
+  "collisionKind" : "platform",
+  "itemDrop" : "mewnianshipplatform",
+  "shortdescription" : "Magical Ship Platform",
+  "description" : "Durable enough to withstand the demands of space travel.",
+  "glitchDescription" : "Informed. Platforms like this are used in space ship construction.",
+  "floranDescription" : "Sstrong sship platform.",
+  "novakidDescription" : "This platform's strong enough t'keep from gettin' boot scuffed.",
+  "footstepSound" : "/sfx/blocks/footstep_lightmetal.ogg",
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "mewnianshipplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 0
+  }
+}

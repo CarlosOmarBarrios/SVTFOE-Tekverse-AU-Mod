@@ -1,0 +1,24 @@
+{
+  "materialId" : 9002,
+  "materialName" : "mewnianshipwall",
+  "particleColor" : [110, 110, 110, 255],
+  "itemDrop" : "mewnianshipwall",
+  "description" : "A sleek magical metal wall panel.",
+  "shortdescription" : "Magical Wall Panel",
+  "glitchDescription" : "Impressed. These removable panels are smooth and strong.",
+  "floranDescription" : "Metal panel makess ssmooth wall.",
+  "novakidDescription" : "A panel made outta metal.",
+  "footstepSound" : "/sfx/blocks/footstep_composite.ogg",
+  "health" : 8,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "mewnianshipwall.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 2630
+  }
+}
