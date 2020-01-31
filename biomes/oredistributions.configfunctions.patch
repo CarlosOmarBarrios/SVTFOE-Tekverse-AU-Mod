@@ -1,0 +1,515 @@
+[
+  {
+    "op": "add",
+    "path": "/surface/0/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/0/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/1/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/1/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/2/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/2/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/3/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/3/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/4/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/4/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/5/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/surface/5/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/0/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/0/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/1/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/1/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/2/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/2/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/3/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/3/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/4/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/4/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/5/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth1/5/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/0/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/0/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/1/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/1/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/2/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/2/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/3/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/3/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/4/1/-",
+    "value": [
+      "magilitium",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/4/1/-",
+    "value": [
+      "trishandrite",
+      0.8
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/5/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth2/5/1/-",
+    "value": [
+      "trishandrite",
+      0.65
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/0/1/-",
+    "value": [
+      "magilitium",
+      0.35
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/0/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/1/1/-",
+    "value": [
+      "magilitium",
+      0.35
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/1/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/2/1/-",
+    "value": [
+      "magilitium",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/2/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/3/1/-",
+    "value": [
+      "magilitium",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/3/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/4/1/-",
+    "value": [
+      "magilitium",
+      0.35
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/4/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/5/1/-",
+    "value": [
+      "magilitium",
+      0.35
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/depth3/5/1/-",
+    "value": [
+      "trishandrite",
+      0.4
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/0/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/0/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/1/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/1/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/2/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/2/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/3/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/3/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/4/1/-",  
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/4/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/5/1/-",
+    "value": [
+      "magilitium",
+      0.25
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/core/5/1/-",
+    "value": [
+      "trishandrite",
+      0
+    ]
+  },
+
+
+{"op":"add",
+"path":"/magicsourcesurface",
+"value": 
+  [
+    [0.5, [ [ "durasteel", 0.20 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.10] ] ],
+    [1.5, [ [ "durasteel", 0.20 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.10] ] ],
+    [2.5, [ [ "durasteel", 0.20 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.10], [ "magilitium", 0.20] ] ],
+    [3.5, [ [ "durasteel", 0.20 ], [ "aegisalt", 0.200 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.20], [ "magilitium", 0.20] ] ],
+    [4.5, [ [ "durasteel", 0.30 ], [ "aegisalt", 0.20 ], [ "ferozium", 0.20 ], [ "violium", 0.20 ], [ "solarium", 0.05 ], [ "uranium", 0.30], [ "magilitium", 0.24],[ "trishandrite", 0.25] ] ],
+    [5.5, [ [ "durasteel", 0.30 ], [ "aegisalt", 0.20 ], [ "ferozium", 0.20 ], [ "violium", 0.20 ], [ "solarium", 0.20 ], [ "uranium", 0.30], [ "magilitium", 0.24],[ "trishandrite", 0.25] ] ],
+    [6.5, [ [ "durasteel", 0.30 ], [ "aegisalt", 0.20 ], [ "ferozium", 0.20 ], [ "violium", 0.20 ], [ "solarium", 0.20 ], [ "uranium", 0.30], [ "magilitium", 0.24],[ "trishandrite", 0.25] ] ],
+    [7.5, [ [ "durasteel", 0.30 ], [ "aegisalt", 0.20 ], [ "ferozium", 0.20 ], [ "violium", 0.20 ], [ "solarium", 0.20 ], [ "uranium", 0.30], [ "magilitium", 0.24],[ "trishandrite", 0.25] ] ],
+    [8.5, [ [ "durasteel", 0.30 ], [ "aegisalt", 0.20 ], [ "ferozium", 0.20 ], [ "violium", 0.20 ], [ "solarium", 0.20 ], [ "uranium", 0.30], [ "magilitium", 0.24],[ "trishandrite", 0.25] ] ]
+  ]
+},
+
+{"op":"add",
+"path":"/magicsourceunderground",
+"value": 
+  [
+    [0.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.60] ] ],
+    [1.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.70] ] ],
+    [2.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.80], [ "magilitium", 0.50] ] ],
+    [3.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.00 ], [ "ferozium", 0.00 ], [ "violium", 0.00 ], [ "solarium", 0.00 ], [ "uranium", 0.90], [ "magilitium", 0.50] ] ],
+    [4.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.90 ], [ "ferozium", 0.90 ], [ "violium", 0.90 ], [ "solarium", 0.40 ], [ "uranium", 0.90], [ "magilitium", 0.64],[ "trishandrite", 0.60] ] ],
+    [5.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.90 ], [ "ferozium", 0.90 ], [ "violium", 0.90 ], [ "solarium", 0.60 ], [ "uranium", 0.90], [ "magilitium", 0.64],[ "trishandrite", 0.65] ] ],
+    [6.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.90 ], [ "ferozium", 0.90 ], [ "violium", 0.90 ], [ "solarium", 0.60 ], [ "uranium", 0.90], [ "magilitium", 0.64],[ "trishandrite", 0.65] ] ],
+    [7.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.90 ], [ "ferozium", 0.90 ], [ "violium", 0.90 ], [ "solarium", 0.60 ], [ "uranium", 0.90], [ "magilitium", 0.64],[ "trishandrite", 0.75] ] ],
+    [8.5, [ [ "durasteel", 0.90 ], [ "aegisalt", 0.90 ], [ "ferozium", 0.90 ], [ "violium", 0.90 ], [ "solarium", 0.60 ], [ "uranium", 0.90], [ "magilitium", 0.64],[ "trishandrite", 0.85] ] ]
+    ]
+}
+]
