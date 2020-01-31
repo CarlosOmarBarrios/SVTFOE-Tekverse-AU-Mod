@@ -1,0 +1,59 @@
+[
+{"op" : "add",
+"path" : "/items/mewnian",
+"value" : [
+		[0, [
+			{
+				"head" : [ { "name" : "glitchtier1head" } ],
+				"chest" : [ { "name" : "glitchtier1chest" } ],
+				"legs" : [ { "name" : "glitchtier1pants" } ],
+				"primary" : [
+					"npcbroadsword"
+				],
+				"sheathedprimary" : [
+					"npcassaultrifle"
+				]
+        }
+      ] ],
+    [2, [
+        {
+          "head" : [ { "name" : "glitchtier2head" } ],
+          "chest" : [ { "name" : "glitchtier2chest" } ],
+          "legs" : [ { "name" : "glitchtier2pants" } ],
+          "primary" : [
+            "npcbroadsword"
+          ],
+          "sheathedprimary" : [
+            "npcassaultrifle"
+          ]
+        }
+      ] ],
+    [3, [
+        {
+          "head" : [ { "name" : "glitchtier3head" } ],
+          "chest" : [ { "name" : "glitchtier3chest" } ],
+          "legs" : [ { "name" : "glitchtier3pants" } ],
+          "primary" : [
+            "npcbroadsword"
+          ],
+          "sheathedprimary" : [
+            "npcassaultrifle"
+          ]
+        }
+      ] ],
+    [4, [
+        {
+          "head" : [ { "name" : "glitchtier4head" } ],
+          "chest" : [ { "name" : "glitchtier4chest" } ],
+          "legs" : [ { "name" : "glitchtier4pants" } ],
+          "primary" : [
+            "npcbroadsword"
+          ],
+          "sheathedprimary" : [
+            "npcassaultrifle"
+          ]
+        }
+      ] ]
+  ]
+}
+]

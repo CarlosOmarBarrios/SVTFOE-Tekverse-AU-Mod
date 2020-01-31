@@ -1,0 +1,53 @@
+{
+  "type" : "mewniancastle",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common", "tenant"]
+    },
+
+    "dialog" : {
+      "converse" : {
+        "glitch" : {
+          "default" : [
+            "I am minor royalty! It would be wise to treat me well.",
+            "I am used to living in grander places than this.",
+            "I suppose I could live here. I've lived in bigger places, though...",
+            "I used to live in a grand castle, tall enough to touch the sky itself.",
+            "This home will do, but it isn't as grand as I'd like."
+          ],
+          "mewnian" : [
+            "You look like a peasant, but that does not mean you can't achieve great things.",
+            "I used to have a servant that looked just like you.",
+            "I have had much bigger homes than this. Someone like you would not understand.",
+            "I used to live in a grand castle, tall enough to touch the sky itself.",
+            "If you haven't any servants, who does all your chores?"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "glitchroyalhead", "parameters" : { "colorIndex" : 6 } }
+            ],
+            "back" : [
+              { "name" : "simplecapeback", "parameters" : { "colorIndex" : 4 } }
+            ],
+            "chest" : [
+              { "name" : "glitchtier4chest", "parameters" : { "colorIndex" : 6 } }
+            ],
+            "legs" : [
+              { "name" : "glitchtier4pants", "parameters" : { "colorIndex" : 6 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}
