@@ -1,0 +1,9 @@
+{
+  "name" : "cream",
+  "category" : "petmewniancat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cream.png"
+  }
+}

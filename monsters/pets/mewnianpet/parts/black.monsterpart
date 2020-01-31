@@ -1,0 +1,9 @@
+{
+  "name" : "black",
+  "category" : "petmewniancat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "black.png"
+  }
+}

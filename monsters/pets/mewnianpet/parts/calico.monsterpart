@@ -1,0 +1,9 @@
+{
+  "name" : "calico",
+  "category" : "petmewniancat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "calico.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "tabby2",
+  "category" : "petmewniancat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tabby2.png"
+  }
+}
