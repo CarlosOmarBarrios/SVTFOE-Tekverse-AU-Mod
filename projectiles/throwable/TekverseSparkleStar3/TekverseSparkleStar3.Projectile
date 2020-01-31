@@ -1,0 +1,17 @@
+{
+  "projectileName" : "TekverseSparkleStar3",
+  "bounces" : -1,
+  "timeToLive" : 3,
+  "speed" : 80,
+  "physics" : "fireworkfall",
+  "image" : "TekverseSparkleStar3.png",
+  "animationCycle" : 0.8,
+  "lightColor" : [243, 227, 49],
+  "frameNumber" : 5,
+  "damageKind" : "default",
+  "hydrophobic" : false,
+  "actionOnReap" : [
+  ],
+  "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
+  "emitters" : [ "sparklesunicorn" ]
+}

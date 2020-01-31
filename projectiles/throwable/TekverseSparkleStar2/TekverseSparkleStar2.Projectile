@@ -1,0 +1,49 @@
+{
+  "projectileName" : "TekverseSparkleStar2",
+  "bounces" : -1,
+  "timeToLive" : 0.8,
+  "speed" : 80,
+  "physics" : "fireworkfall",
+  "image" : "TekverseSparkleStar2.png",
+  "animationCycle" : 1.5,
+  "lightColor" : [243, 227, 49],
+  "frameNumber" : 5,
+  "damageKind" : "default",
+  "hydrophobic" : false,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/gnomebeam_hit_ground.ogg" ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "TekverseSparkleStar3",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "TekverseSparkleStar3",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "TekverseSparkleStar3",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "TekverseSparkleStar3",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 270
+    }
+  ],
+  "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
+  "emitters" : [ "sparkles" ]
+}
